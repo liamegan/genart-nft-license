@@ -5,7 +5,6 @@ This license was drafted as a response to the lack of appropriate and unambiguou
 
 It allows:
 - **Display and Reproduction**: Anyone can display and reproduce the Artwork, provided they attribute it to the Creator.
-- **Resale of NFT**: Owners can resell the NFT associated with an Iteration, as long as the new owner agrees to this License's terms.
 - **Attribution Required**: Any display or reproduction of the Artwork must include appropriate credit to the Creator, specifying the Creator's name, and the Project's description and title.
 
 Limits:
