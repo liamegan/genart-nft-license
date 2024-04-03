@@ -27,7 +27,7 @@ Definitions
 5. Restrictions
 
    1. No Modifications: Users shall not modify, adapt, create derivative works from, or otherwise alter the Project or any Artwork.
-   2. No Commercial Use: Users shall not use the Project or any Artwork for Commercial Use.
+   2. Limited Commercial Use: Users shall not use the Project or any Artwork for Commercial Use outside of the standard mechanics as an NFT.
    3. No Further Rights: Users shall not attempt to trademark, copyright, or otherwise acquire additional intellectual property rights in or to the Artwork or Iteration
 
 6. Attribution
