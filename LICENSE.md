@@ -23,7 +23,6 @@ Definitions
 
    Subject to the terms and conditions of this License, the Creator grants to any user a worldwide, non-exclusive, no-charge, royalty-free license to:
    1. Display and reproduce (download) the Artwork, provided such display and reproduction are attributed to the Creator.
-   2. Resell the NFT associated with the Iteration under the condition that the new owner agrees to the terms of this License.
 
 5. Restrictions
 
