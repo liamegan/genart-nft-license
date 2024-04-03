@@ -9,6 +9,6 @@ It allows:
 
 Limits:
 - **No Modifications**: Users are not allowed to modify, adapt, create derivative works from, or otherwise alter the Project or any Artwork.
-- **No Commercial Use**: The Project and Artwork cannot be used for commercial purposes or direct financial gain.
+- **No Commercial Use**: The Project and Artwork cannot be used for commercial purposes or direct financial gain outside of the standard mechanics of an NFT.
 - **No Additional Rights**: Users cannot attempt to trademark, copyright, or acquire additional intellectual property rights in or to the Artwork or Iteration.
 - **Termination on Breach**: The License and its granted rights automatically terminate if a user breaches its terms.
