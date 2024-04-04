@@ -4,7 +4,7 @@ Version 0.0.1
 
 Last update 2024-04-03
 
-This GenArt License ("License") applies to any digital work ("Project") including but not limited to software code, digital assets, accompanying documentation, and all resulting artwork and imagery ("Artwork") covered by this License. The Project and Artwork are licensed, not sold, to you by the creator ("Creator") under the terms of this License.
+This GenArt License ("License") applies to any digital work ("Project") including but not limited to software code, digital assets, accompanying documentation, and all resulting artwork and imagery ("Artwork") covered by this License.
 
 Definitions
 - "Project" refers to the core code, assets, and any accompanying materials provided under this License, including all generated Artwork.
